@@ -18,7 +18,7 @@ Here is the live URL: [https://alinatca.github.io/planner-app/](https://alinatca
 
 Here is a gif of the application: 
 
-![website-layout](https://github.com/alinatca/password-generator/blob/2d22fdbbd42be441d41c87fad75b7cf648368807/assets/images/password-generator.gif)
+![website-layout](https://github.com/alinatca/planner-app/blob/9df0b6b64c635ab09e2b52c944ea92c068e61612/assets/images/work-day-scheduler.gif)
 
 ## Contact
 
