@@ -1,4 +1,4 @@
-# Password Generator
+# Planner Application
 ## Description
 
 This app allows users to view and plan their schedule for the current day. The calender presents timeblocks for standard business hours and color-codes them based on past, present, and future. Users can enter events for specific timeblocks by clicking on them and saving the event in local storage by clicking the save button. The app also persists events between page refreshes.
@@ -14,7 +14,7 @@ This assignment introduced me to jquery, local storage, and moment.js and how th
 
 ## Application details
 
-Here is the live URL: [https://alinatca.github.io/password-generator/](https://alinatca.github.io/password-generator/)
+Here is the live URL: [https://alinatca.github.io/planner-app/](https://alinatca.github.io/planner-app/)
 
 Here is a gif of the application: 
 
